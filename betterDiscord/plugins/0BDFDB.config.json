@@ -1,7 +1,7 @@
 {
 	"changeLogs": {
 		"BDFDB": "1.8.3",
-		"ImageUtilities": "4.4.6",
+		"ImageUtilities": "4.4.7",
 		"SplitLargeMessages": "1.7.0"
 	},
 	"choices": {
@@ -13,7 +13,7 @@
 		"useChromium": false
 	},
 	"hashes": {
-		"0BDFDB.data.json": "a029ce9e09949f281680488a6118c5ee0509b1b9",
-		"0BDFDB.raw.css": "30a50e58a729a55a102828c0a937e5b8bd609d81"
+		"0BDFDB.data.json": "e38ca99ef840f7a5f992497a11cec614ca03500f",
+		"0BDFDB.raw.css": "6bb82eb9f45d2d68a03ad2d3e21dcf35a5e2e3ee"
 	}
 }
