@@ -1,16 +1,17 @@
 {
-    "token": "mfa.I4EpGheBLg_e1qHfjzIn9TJ_dA7AB_UfPuHthAM_g7TLbuesJ3UF6VPYkeTnBDDytN1-qd1L_QcuvrY_W4V6",
-    "timeout": 2900,
+    "timeout": 3100,
     "animation": [
-        [
-            "🐧Linux🐧"
-        ],
-        [
-            "🟢Manjaro🟢"
-        ],
-        [
-            "✔️AUR✔️"
-        ]
-    ],
-    "editor": 0
+        {
+            "text": "Manjaro",
+            "emoji_name": "🟩"
+        },
+        {
+            "text": "Linux",
+            "emoji_name": "🐧"
+        },
+        {
+            "text": "AUR",
+            "emoji_name": "⭕"
+        }
+    ]
 }
