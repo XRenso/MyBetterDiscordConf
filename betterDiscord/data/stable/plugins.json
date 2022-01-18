@@ -1,0 +1,12 @@
+{
+    "BDFDB": true,
+    "ZeresPluginLibrary": true,
+    "AnimatedStatus": true,
+    "BetterFormattingRedux": true,
+    "BetterRoleColors": true,
+    "HideDisabledEmojis": true,
+    "ImageUtilities": true,
+    "QuickMention": true,
+    "ShowAllActivities": false,
+    "SplitLargeMessages": true
+}
