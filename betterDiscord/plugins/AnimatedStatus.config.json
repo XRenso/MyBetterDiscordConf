@@ -2,7 +2,7 @@
     "timeout": 3100,
     "animation": [
         {
-            "text": "Manjaro",
+            "text": "Mint",
             "emoji_name": "🟩"
         },
         {
@@ -10,7 +10,7 @@
             "emoji_name": "🐧"
         },
         {
-            "text": "AUR",
+            "text": "Deb",
             "emoji_name": "⭕"
         }
     ]
